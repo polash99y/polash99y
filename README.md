@@ -1,19 +1,32 @@
-<h1 align="center">Hi 👋, I'm Polash Ahmed</h1>
-<h3 align="center">Web Developer</h3>
+### Hi there 👋, Polash Ahmed
+#### Web developer
+![Web developer](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polash99y&label=Profile%20views&color=0e75b6&style=flat" alt="polash99y" /> </p>
+Hey! i am a Web developer i work very Efficiently . I satisfy my client
 
-- 🌱 I’m currently learning **react**
+Skills:  REACT / JS / HTML / CSS/BOOSTRAP/CSS/GIT/SASS
 
-- 💬 Ask me about **html**
+- 🔭 I’m currently working on Polash Ahmed 
+- 🌱 I’m currently learning react 
+- 💬 Ask me about HTML 
+- 📫 How to reach me: mdp01864@gmail.com 
+- ⚡ Fun fact: i think i am funny 
 
-- 📫 How to reach me **mbp01864@gmail.com**
 
-- ⚡ Fun fact **i think i am funny**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/polash99y)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=polash99y)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polash99y)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=polash99y&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=polash99y)  
+
+![GitHub metrics](https://metrics.lecoq.io/polash99y)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=polash99y)  
+
+![Profile views](https://gpvc.arturio.dev/polash99y)  
